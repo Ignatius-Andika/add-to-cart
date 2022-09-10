@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.img-item {
+  height: 100%;
+  width: 100%;
+}
+
+.item-desc {
+  height: 8vh;
+}
+
+.navbar {
+  font: 12px opensans-bold,sans-serif;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    margin: 0 auto;
+    z-index: 100;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: block;
+}
